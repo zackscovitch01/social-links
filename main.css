@@ -320,6 +320,7 @@ body {
   border-radius: var(--borderRadius);
   padding: 0.4rem;
   transition: var(--transition);
+  cursor: pointer;
 }
 
 .links a {
